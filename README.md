@@ -6,6 +6,7 @@ The robotic hand features **10-degree precision control**, providing smooth and 
 
 ---
 
+
 ## **🔹 Project Highlights:**
 
 - **STM32 Blue Pill** for real-time processing and control
@@ -82,3 +83,5 @@ Robotics, STM32, PCA9685, Bluetooth, Embedded Systems, Automation, I²C, UART, S
 ---
 
 Let me know if you need further edits or additions to the README! 🚀
+
+https://youtu.be/7FjJbYT7xIs?si=uYSMJaefywGDw0Jh
