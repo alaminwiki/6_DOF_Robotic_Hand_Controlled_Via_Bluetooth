@@ -84,4 +84,9 @@ Robotics, STM32, PCA9685, Bluetooth, Embedded Systems, Automation, I²C, UART, S
 
 Let me know if you need further edits or additions to the README! 🚀
 
+Video Of this Project :
+
 https://youtu.be/7FjJbYT7xIs?si=uYSMJaefywGDw0Jh
+https://youtu.be/2hPKrFhMjZ0?si=tDs_dVr8lwox4Dy9
+https://youtu.be/ZAh5dZRcjxQ?si=tyGtm_TFnVypO4Wn
+
