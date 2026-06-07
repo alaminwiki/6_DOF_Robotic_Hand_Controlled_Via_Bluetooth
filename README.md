@@ -4,7 +4,13 @@ This project demonstrates a **6-degree-of-freedom (6-DOF) robotic hand** control
 
 The robotic hand features **10-degree precision control**, providing smooth and accurate motions with real-time feedback. This project is ideal for those interested in robotics, embedded systems, automation, and wireless control systems.
 
----
+--- 
+
+Picture Of this Project : 
+<img width="835" height="557" alt="image" src="https://github.com/user-attachments/assets/56d787d6-b51e-4fe8-b4a0-fb07e3211941" />
+
+<img width="976" height="547" alt="image" src="https://github.com/user-attachments/assets/71277dfb-163a-4e55-b6b0-fbdf51f07457" />
+
 
 
 ## **🔹 Project Highlights:**
